@@ -1,0 +1,29 @@
+[{
+"moviename" : "Pathaan",
+"releaseDate" : "25-01-2023",
+"actor" : "Shah Rukh Khan",
+"actress" : "Deepika Padukone",
+"duration" : 146,
+"language" : "Hindi",
+"3D" : false
+},
+
+{
+"moviename" : "Avatar 2",
+"releaseDate" : "16-12-2022",
+"actor" : "Sam",
+"actress" : "Zoe",
+"duration" : 192,
+"language" : "English",
+"3D" : true
+},
+
+{
+"moviename" : "Ved",
+"releaseDate" : "30-12-2022",
+"actor" : "Ritesh",
+"actress" : "Jenelia",
+"duration" : 192,
+"language" : "Marathi",
+"3D" : false
+}]

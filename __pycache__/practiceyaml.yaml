@@ -1,0 +1,15 @@
+---
+moviesname:
+  - avatar
+  - The Matrix
+
+favouratesports: [cricket, hockey]
+
+address: {city:Pune,state:MH}
+
+favourateplayer:
+         - kohli
+         - dhoni
+
+...
+

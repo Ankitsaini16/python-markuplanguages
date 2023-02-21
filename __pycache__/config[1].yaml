@@ -1,0 +1,8 @@
+--- # Application configuration
+author: pak
+database:
+        driver: com.mysql.jdbc.Driver
+        port: 3306
+        dbname: mydb
+        username: root
+        password: 

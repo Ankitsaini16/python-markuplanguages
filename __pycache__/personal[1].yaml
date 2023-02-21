@@ -1,0 +1,14 @@
+---
+favouriteMovies:
+   - Avatar2
+   - Jo jeeta wahi sikandar
+
+favouritefruits: [mango, banana]
+   
+address: {city:Pune,state:MH}
+
+hobbies:
+   - Reading
+   - watching TV
+
+...
